@@ -21,6 +21,9 @@
     <ClCompile Include="..\..\AISD-laba-1-1\Vectors.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\AISD-laba-1-1\Vectors.h">
